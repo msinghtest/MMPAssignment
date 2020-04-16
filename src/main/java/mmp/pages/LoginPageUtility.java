@@ -13,6 +13,7 @@ public class LoginPageUtility {
 
 	WebDriver driver;
 
+	//added constructor
 	public LoginPageUtility(WebDriver mydriver) {
 		this.driver = mydriver;
 
