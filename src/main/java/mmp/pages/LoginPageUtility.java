@@ -13,7 +13,8 @@ public class LoginPageUtility {
 
 	WebDriver driver;
 
-	//added constructor
+	//added constructor 
+	// fix master and branch issue
 	public LoginPageUtility(WebDriver mydriver) {
 		this.driver = mydriver;
 
